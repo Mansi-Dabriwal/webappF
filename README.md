@@ -18,4 +18,4 @@ delete api is used to delete any data by its id. Only the authenticated user who
 
 patch api is used to update one or more fields in the data. this api can also be performed only by the user who has created the product
 
-[Infrastructure using terraform]((https://github.com/Mansi-Dabriwal/aws-infraF))
+[Infrastructure using terraform](https://github.com/Mansi-Dabriwal/aws-infraF)
